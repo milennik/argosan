@@ -1,0 +1,2 @@
+# argosan
+ArgoCD playground
